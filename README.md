@@ -1,2 +1,2 @@
 # LiphOm
-A standardise library for biological data analysis.
+A library for library for standardized biological data analysis.
